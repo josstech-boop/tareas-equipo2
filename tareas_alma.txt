@@ -1,0 +1,8 @@
+Este es un ejercicio de Git con el equipo-2
+Version 2.0
+
+Tareas personales: 
+
+- Terminar el ejercicio 1 
+- Utilizar correctamente Git
+- Ser util en el equipo
