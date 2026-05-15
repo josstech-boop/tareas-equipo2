@@ -1,0 +1,4 @@
+- Estudiar Git & GitHub
+- Hacer ejercicio y practicar logica con JS
+- Leer documentación
+- Practicar HTML Y CSS
