@@ -1,0 +1,4 @@
+Listado de tareas personales:
+1.Aprender mas sobre programación
+2.Mejorar mi lógica de programación
+3.Aprender sobre git
