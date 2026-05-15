@@ -1,0 +1,5 @@
+-Lista de tareas
+
+-Ejercicio de git
+-Leer documentacion
+-Crear rama y el commit
